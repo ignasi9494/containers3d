@@ -40,7 +40,7 @@ export function HeroSection() {
           <div className="relative mx-auto h-[350px] w-full max-w-lg lg:h-[450px]">
             <div className="absolute inset-0 rounded-3xl bg-white/5 backdrop-blur-sm" />
             <ModelViewerWrapper
-              src="/models/skip-5m3.glb"
+              src="/models/skip-3m3.glb"
               alt="Contenidor 3D interactiu"
               autoRotate
               cameraOrbit="30deg 70deg 110%"
