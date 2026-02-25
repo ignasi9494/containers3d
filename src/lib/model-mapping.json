@@ -1,0 +1,152 @@
+{
+  "ecopil": {
+    "name": "1. Contenidors Piles (Ecopil)",
+    "model": "/models/ecopil.glb",
+    "image": "16.png"
+  },
+  "fluorescents": {
+    "name": "2. Contenidors Fluorescents",
+    "model": "/models/fluorescents.glb",
+    "image": "21.png"
+  },
+  "toners": {
+    "name": "3. Papereres Selectiva (Tòners)",
+    "model": "/models/toners.glb",
+    "image": "21.png"
+  },
+  "ibc-1000l": {
+    "name": "4. IBC 1000L",
+    "model": "/models/ibc-1000l.glb",
+    "image": "18.png"
+  },
+  "sac-net": {
+    "name": "5. Sac Net",
+    "model": "/models/sac-net.glb",
+    "image": "10.png"
+  },
+  "big-bag": {
+    "name": "6. Big Bag 1m³",
+    "model": "/models/big-bag.glb",
+    "image": "11.png"
+  },
+  "boxs-bateries": {
+    "name": "7. Boxs Bateries",
+    "model": "/models/boxs-bateries.glb",
+    "image": "12.png"
+  },
+  "sacs-fibrociment": {
+    "name": "8. Sacs Fibrociment (Amianto)",
+    "model": "/models/sacs-fibrociment.glb",
+    "image": "19.png"
+  },
+  "bido-especials": {
+    "name": "9. Bidons Residus Especials",
+    "model": "/models/bido-especials.glb",
+    "image": "25.png"
+  },
+  "caixa-perillosos": {
+    "name": "10. Caixes Residus Perillosos",
+    "model": "/models/caixa-perillosos.glb",
+    "image": "24.png"
+  },
+  "plastic-240l": {
+    "name": "11. Selectiva Plàstic 240L",
+    "model": "/models/plastic-240l.glb",
+    "image": "29.png"
+  },
+  "selectiva-1100l": {
+    "name": "12. Selectiva Plàstic 1100L",
+    "model": "/models/selectiva-1100l.glb",
+    "image": "26.png"
+  },
+  "iglu-vidre": {
+    "name": "13. Iglú Vidre",
+    "model": "/models/iglu-vidre.glb",
+    "image": "28.png"
+  },
+  "skip-2m3": {
+    "name": "14. Contenidor 2m³",
+    "model": "/models/skip-2m3.glb",
+    "image": "13.png"
+  },
+  "skip-3m3": {
+    "name": "15. Contenidor 3m³",
+    "model": "/models/skip-3m3.glb",
+    "image": "14.png"
+  },
+  "skip-5m3": {
+    "name": "16. Contenidor 5m³",
+    "model": "/models/skip-5m3.glb",
+    "image": "27.png"
+  },
+  "skip-6m3-tapat": {
+    "name": "17. Contenidor 6m³ (Tapat)",
+    "model": "/models/skip-6m3-tapat.glb",
+    "image": "30.png"
+  },
+  "skip-9m3": {
+    "name": "18. Contenidor 9m³",
+    "model": "/models/skip-9m3.glb",
+    "image": "23.png"
+  },
+  "skip-9m3-estanc": {
+    "name": "19. Contenidor 9m³ Estanc",
+    "model": "/models/skip-9m3-estanc.glb",
+    "image": "32.png"
+  },
+  "rolloff-10-13m3": {
+    "name": "20. Contenidor 10-13m³",
+    "model": "/models/rolloff-10-13m3.glb",
+    "image": "15.png"
+  },
+  "rolloff-12m3": {
+    "name": "21. Contenidor 12m³",
+    "model": "/models/rolloff-12m3.glb",
+    "image": "22.png"
+  },
+  "rolloff-15-40m3": {
+    "name": "22. Contenidor 15-40m³",
+    "model": "/models/rolloff-15-40m3.glb",
+    "image": "31.png"
+  },
+  "estancs-15-25m3": {
+    "name": "23. Contenidors Estancs 15-25m³",
+    "model": "/models/estancs-15-25m3.glb",
+    "image": "33.png"
+  },
+  "confidencial": {
+    "name": "24. Confidencial",
+    "model": "/models/confidencial.glb",
+    "image": "34.png"
+  },
+  "compactadora": {
+    "name": "25. Compactadora",
+    "model": "/models/compactadora.glb",
+    "image": "48.png"
+  },
+  "autovoltejador": {
+    "name": "26. Autovoltejador",
+    "model": "/models/autovoltejador.glb",
+    "image": "40.png"
+  },
+  "autobasculant": {
+    "name": "27. Autobasculant",
+    "model": "/models/autobasculant.glb",
+    "image": "42.png"
+  },
+  "roll-paker": {
+    "name": "28. Roll Paker",
+    "model": "/models/roll-paker.glb",
+    "image": "41.png"
+  },
+  "rotocompactador": {
+    "name": "29. Rotocompactador",
+    "model": "/models/rotocompactador.glb",
+    "image": "43.png"
+  },
+  "cisterna": {
+    "name": "30. Cisterna",
+    "model": "/models/cisterna.glb",
+    "image": "47.png"
+  }
+}

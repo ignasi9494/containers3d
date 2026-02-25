@@ -1,0 +1,288 @@
+{
+  "common": {
+    "companyName": "Vilà Vila Serveis Ambientals",
+    "loading": "Cargando...",
+    "viewDetails": "Ver detalles",
+    "requestQuote": "Solicitar presupuesto",
+    "contactUs": "Contactar",
+    "learnMore": "Saber más",
+    "allRightsReserved": "Todos los derechos reservados",
+    "dimensions": "Dimensiones",
+    "capacity": "Capacidad",
+    "weight": "Peso",
+    "material": "Material"
+  },
+  "nav": {
+    "home": "Inicio",
+    "catalog": "Catálogo",
+    "services": "Servicios",
+    "about": "Quiénes somos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Tus residuos en buenas manos",
+    "subtitle": "Explora nuestro catálogo interactivo de contenedores en 3D. Más de 30 años gestionando residuos de forma integral.",
+    "tagline": "Por un mejor entorno",
+    "cta": "Ver catálogo",
+    "ctaSecondary": "Pedir presupuesto"
+  },
+  "catalog": {
+    "title": "Nuestros Productos",
+    "subtitle": "Selecciona un producto para explorarlo en 3D",
+    "filterAll": "Todos",
+    "filterEmbalajes": "Embalajes",
+    "filterContenedores": "Contenedores",
+    "filterMaquinaria": "Maquinaria",
+    "specs": "Especificaciones",
+    "idealUses": "Usos ideales",
+    "relatedContainers": "Productos relacionados",
+    "productCount": "productos",
+    "productCountFiltered": "productos en esta categoría",
+    "containers": {
+      "ecopil": {
+        "name": "Contenidor Piles (Ecopil)",
+        "description": "Contenedor homologado para la recogida de pilas y baterías pequeñas. Diseño compacto para colocar en oficinas, comercios y espacios públicos.",
+        "useCases": "Oficinas, comercios, centros educativos, establecimientos públicos"
+      },
+      "fluorescents": {
+        "name": "Contenidor Fluorescents",
+        "description": "Embalaje especial para la recogida de tubos fluorescentes y lámparas de bajo consumo. Garantiza el transporte seguro sin roturas.",
+        "useCases": "Oficinas, hospitales, centros comerciales, instalaciones industriales"
+      },
+      "toners": {
+        "name": "Paperera Selectiva Tòners",
+        "description": "Contenedor específico para la recogida de cartuchos de tóner y tinta agotados. Cumple con la normativa de residuos peligrosos.",
+        "useCases": "Oficinas, empresas de servicios, centros de copiado, universidades"
+      },
+      "ibc-1000l": {
+        "name": "IBC 1000L",
+        "description": "Contenedor intermedio a granel (IBC) de 1000 litros con jaula metálica protectora y válvula de descarga. Ideal para líquidos peligrosos y no peligrosos.",
+        "useCases": "Industria química, alimentaria, almacenamiento de líquidos, transporte de residuos"
+      },
+      "sac-net": {
+        "name": "Sac Net",
+        "description": "Saco de malla para la recogida y transporte de residuos voluminosos y ligeros. Fácil de manipular y resistente.",
+        "useCases": "Recogida de plásticos, papel, residuos ligeros, reciclaje"
+      },
+      "big-bag": {
+        "name": "Big Bag 1m³",
+        "description": "Saco de gran capacidad (1m³) fabricado en polipropileno tejido de alta resistencia. Con 4 asas para manipulación con grúa o carretilla.",
+        "useCases": "Construcción, derribos, áridos, residuos industriales voluminosos"
+      },
+      "boxs-bateries": {
+        "name": "Box Bateries",
+        "description": "Caja especial para la recogida y transporte de baterías de plomo-ácido y otros tipos de acumuladores. Cumple normativa ADR.",
+        "useCases": "Talleres mecánicos, empresas de automoción, industria, centros de recogida"
+      },
+      "sacs-fibrociment": {
+        "name": "Sacs Fibrociment (Amianto)",
+        "description": "Sacos homologados para el envasado y transporte de residuos de fibrocemento con amianto. Cumplen la normativa específica para residuos peligrosos de amianto.",
+        "useCases": "Obras de demolición, rehabilitación de edificios, retirada de fibrocemento"
+      },
+      "bido-especials": {
+        "name": "Bidons Residus Especials",
+        "description": "Bidones de seguridad para residuos especiales y peligrosos. Disponibles en diferentes capacidades con cierre hermético homologado.",
+        "useCases": "Industria química, laboratorios, talleres, gestión de residuos peligrosos"
+      },
+      "caixa-perillosos": {
+        "name": "Caixes Residus Perillosos",
+        "description": "Cajas homologadas UN para el embalaje y transporte de residuos peligrosos en pequeña cantidad. Cumple normativa ADR para transporte de mercancías peligrosas.",
+        "useCases": "Laboratorios, hospitales, industria química, centros de investigación"
+      },
+      "plastic-240l": {
+        "name": "Contenidor Selectiva Plàstic 240L",
+        "description": "Contenedor de plástico de 240 litros para recogida selectiva. Con tapa basculante y ruedas para fácil desplazamiento.",
+        "useCases": "Comunidades de vecinos, comercios, edificios de oficinas, uso doméstico"
+      },
+      "selectiva-1100l": {
+        "name": "Contenidor Selectiva Plàstic 1100L",
+        "description": "Gran contenedor de 1100 litros para recogida selectiva en zonas de alta densidad. Con 4 ruedas giratorias y apertura frontal.",
+        "useCases": "Grandes comunidades, centros comerciales, mercados, parques empresariales"
+      },
+      "iglu-vidre": {
+        "name": "Iglú Vidre",
+        "description": "Contenedor iglú para la recogida selectiva de vidrio en la vía pública. Gran capacidad con apertura superior para depósito seguro.",
+        "useCases": "Vía pública, centros comerciales, hostelería, zonas de alta generación de vidrio"
+      },
+      "skip-2m3": {
+        "name": "Contenidor 2m³",
+        "description": "Skip metálico de 2m³ para espacios reducidos. Ideal para calles estrechas y obras pequeñas. Transportado por camiones de pequeño tonelaje.",
+        "useCases": "Reformas de pisos, trabajos en calles estrechas, pequeñas obras"
+      },
+      "skip-3m3": {
+        "name": "Contenidor 3m³",
+        "description": "Contenedor metálico de 3m³, el más utilizado para obras y reformas. Ocupa el espacio de una plaza de aparcamiento estándar.",
+        "useCases": "Obras de reforma, construcción residencial, limpieza de locales"
+      },
+      "skip-5m3": {
+        "name": "Contenidor 5m³",
+        "description": "Skip de 5m³ para proyectos medianos. Mayor capacidad manteniendo una huella reducida. Ideal para escombros y materiales de construcción.",
+        "useCases": "Obras medianas, derribos parciales, rehabilitaciones"
+      },
+      "skip-6m3-tapat": {
+        "name": "Contenidor 6m³ (Tapat)",
+        "description": "Contenedor de 6m³ con tapa para residuos que requieren protección de la lluvia o que no deben estar expuestos al exterior.",
+        "useCases": "Residuos con protección especial, obras en zonas residenciales, maderas y materiales sensibles"
+      },
+      "skip-9m3": {
+        "name": "Contenidor 9m³",
+        "description": "Skip de gran capacidad de 9m³ para obras de envergadura. Permite cargar grandes volúmenes de escombros o residuos.",
+        "useCases": "Grandes obras, derribos, proyectos industriales"
+      },
+      "skip-9m3-estanc": {
+        "name": "Contenidor 9m³ Estanc",
+        "description": "Versión estanca del contenedor de 9m³, diseñada para residuos líquidos o que no deben filtrarse al exterior. Cumple normativa de estanqueidad.",
+        "useCases": "Residuos líquidos, lodos, residuos con riesgo de filtración"
+      },
+      "rolloff-10-13m3": {
+        "name": "Contenidor 10-13m³",
+        "description": "Contenedor roll-off de entre 10 y 13m³ para obras y proyectos de gran volumen. Se carga y descarga mediante sistema de gancho.",
+        "useCases": "Obras industriales, grandes derribos, generación masiva de residuos"
+      },
+      "rolloff-12m3": {
+        "name": "Contenidor 12m³",
+        "description": "Roll-off de 12m³ de capacidad fija para una gestión eficiente de residuos voluminosos. Ampliamente utilizado en obras civiles.",
+        "useCases": "Construcción civil, proyectos de infraestructura, derribos medios"
+      },
+      "rolloff-15-40m3": {
+        "name": "Contenidor 15-40m³",
+        "description": "Contenedor de gran capacidad variable entre 15 y 40m³. Para los proyectos con mayor generación de residuos. Transportado por vehículos especializados.",
+        "useCases": "Grandes derribos industriales, proyectos de obra civil de gran escala"
+      },
+      "estancs-15-25m3": {
+        "name": "Contenidors Estancs 15-25m³",
+        "description": "Contenedores estancos de gran capacidad (15-25m³) para residuos líquidos o peligrosos que no deben contaminar el suelo.",
+        "useCases": "Residuos industriales líquidos, lodos de depuradora, residuos de riesgo ambiental"
+      },
+      "confidencial": {
+        "name": "Contenidor Confidencial",
+        "description": "Contenedor con cerradura de seguridad para la destrucción confidencial de documentos y soportes de datos. Garantiza la trazabilidad y confidencialidad.",
+        "useCases": "Empresas, despachos, hospitales, administraciones públicas, bancos"
+      },
+      "compactadora": {
+        "name": "Compactadora",
+        "description": "Compactadora de residuos para maximizar la capacidad de almacenamiento. Reduce el volumen de residuos hasta un 80%, optimizando costes de gestión.",
+        "useCases": "Grandes superficies comerciales, industria, centros logísticos, municipios"
+      },
+      "autovoltejador": {
+        "name": "Autovoltejador",
+        "description": "Vehículo especial para la recogida y volteo automático de contenedores. Permite la recogida eficiente sin necesidad de personal adicional.",
+        "useCases": "Recogida municipal, gestión de residuos urbanos, zonas industriales"
+      },
+      "autobasculant": {
+        "name": "Autobasculant",
+        "description": "Sistema de autobasculante para el vaciado automático de contenedores de gran capacidad. Optimiza los tiempos de recogida y reduce el esfuerzo manual.",
+        "useCases": "Industria, logística, gestión de residuos de gran volumen"
+      },
+      "roll-paker": {
+        "name": "Roll Paker",
+        "description": "Sistema roll-paker para la compactación y transporte de residuos en un único vehículo. Combina la eficiencia de la compactadora con la movilidad del camión.",
+        "useCases": "Recogida urbana, gestión eficiente de residuos domésticos e industriales"
+      },
+      "rotocompactador": {
+        "name": "Rotocompactador",
+        "description": "Rotocompactador para la reducción de volumen de residuos mediante rotación y compresión. Alta eficiencia en la gestión de residuos orgánicos y mixtos.",
+        "useCases": "Mercados, grandes superficies, hostelería, industria alimentaria"
+      },
+      "cisterna": {
+        "name": "Cisterna",
+        "description": "Cisterna de transporte para líquidos, lodos y residuos líquidos en grandes volúmenes. Fabricada en acero inoxidable para máxima durabilidad y resistencia.",
+        "useCases": "Transporte de líquidos industriales, lodos de depuradora, residuos líquidos peligrosos"
+      }
+    }
+  },
+  "features": {
+    "title": "Por qué elegir Vilà Vila",
+    "certified": {
+      "title": "Certificados ISO",
+      "description": "ISO 9001, ISO 14001, UNE-EN 15713. Medalla de Plata EcoVadis."
+    },
+    "emergency": {
+      "title": "Emergencias 24h",
+      "description": "Servicio de saneamiento del medio las 24 horas del día, los 365 días."
+    },
+    "experience": {
+      "title": "+30 años de experiencia",
+      "description": "Desde 1994 gestionando residuos de forma integral en Bages, Osona y Vallès."
+    },
+    "transport": {
+      "title": "Transporte autorizado ADR",
+      "description": "Flota propia para el transporte de residuos peligrosos y no peligrosos."
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Solicita presupuesto o resuelve tus dudas",
+    "name": "Nombre",
+    "company": "Empresa",
+    "email": "Email",
+    "phone": "Teléfono",
+    "containerType": "Tipo de producto",
+    "selectContainer": "Selecciona un producto",
+    "message": "Mensaje",
+    "messagePlaceholder": "Cuéntanos sobre tu proyecto...",
+    "submit": "Enviar solicitud",
+    "success": "Mensaje enviado correctamente. Nos pondremos en contacto contigo pronto.",
+    "error": "Hubo un error al enviar el mensaje. Por favor, inténtalo de nuevo."
+  },
+  "footer": {
+    "description": "Gestión integral de residuos desde 1994.",
+    "quickLinks": "Enlaces rápidos",
+    "contactInfo": "Información de contacto",
+    "delegations": "Delegaciones",
+    "centralBages": "Central Bages",
+    "osona": "Delegación Osona",
+    "valles": "Delegación Vallès",
+    "certifications": "Certificaciones",
+    "socialMedia": "Redes sociales",
+    "legal": "Aviso legal",
+    "privacy": "Política de privacidad",
+    "cookies": "Política de cookies"
+  },
+  "about": {
+    "title": "Quiénes somos",
+    "subtitle": "Desde 1994 al servicio del medio ambiente",
+    "description": "Vilà Vila Serveis Ambientals SL es una empresa especializada en la gestión integral de todo tipo de residuos. Fundada en 1994 en Sant Joan de Vilatorrada (Bages), ofrecemos servicios de recogida, transporte, gestión y reciclaje de residuos con el compromiso de proteger el medio ambiente.",
+    "history": "Originalmente constituida como Contenidors Vilà Vila S.L., la empresa ha evolucionado para convertirse en un referente en gestión ambiental en la Cataluña central, con delegaciones en Bages, Osona y Vallès.",
+    "servicesTitle": "Nuestros servicios",
+    "services": {
+      "containers": "Contenedores (alquiler y venta)",
+      "transport": "Transporte (RE/ADR autorizado)",
+      "hazardous": "Residuos peligrosos",
+      "consulting": "Asesoría técnica medioambiental",
+      "sanitation": "Saneamiento del medio (24h emergencias)",
+      "confidential": "Destrucción confidencial"
+    },
+    "certificationsTitle": "Certificaciones y calidad",
+    "certificationsDesc": "Contamos con las certificaciones ISO 9001:2015 (calidad), ISO 14001:2015 (medio ambiente) y UNE-EN 15713:2010 (destrucción confidencial). Reconocidos con la Medalla de Plata EcoVadis por tercer año consecutivo."
+  },
+  "services": {
+    "title": "Nuestros servicios",
+    "subtitle": "Soluciones integrales de gestión de residuos",
+    "containers": {
+      "title": "Contenedores",
+      "description": "Alquiler y venta de todo tipo de contenedores, desde 2m³ hasta 40m³. Taller propio de calderería para personalizaciones."
+    },
+    "transport": {
+      "title": "Transporte",
+      "description": "Flota moderna de vehículos (compactadores, grúas, brazos articulados) autorizados RE y ADR para el transporte de todo tipo de residuos."
+    },
+    "hazardous": {
+      "title": "Residuos peligrosos",
+      "description": "Muestreo y análisis profesional con laboratorios acreditados. Transporte ADR y protocolos personalizados de manipulación."
+    },
+    "consulting": {
+      "title": "Asesoría técnica",
+      "description": "Departamento de consultoría medioambiental. Planes de gestión de residuos personalizados por sector y cumplimiento normativo."
+    },
+    "sanitation": {
+      "title": "Saneamiento del medio",
+      "description": "Desatrancos, inspección con cámara TV, vaciado de fosas sépticas, respuesta de emergencia 24/7 y limpieza industrial a presión."
+    },
+    "confidential": {
+      "title": "Destrucción confidencial",
+      "description": "Destrucción certificada de documentos y soportes de datos con certificado UNE-EN 15713:2010. Garantía de trazabilidad."
+    },
+    "viewCatalog": "Ver catálogo de contenedores"
+  }
+}

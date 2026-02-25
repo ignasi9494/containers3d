@@ -1,0 +1,288 @@
+{
+  "common": {
+    "companyName": "Vilà Vila Environmental Services",
+    "loading": "Loading...",
+    "viewDetails": "View details",
+    "requestQuote": "Request quote",
+    "contactUs": "Contact us",
+    "learnMore": "Learn more",
+    "allRightsReserved": "All rights reserved",
+    "dimensions": "Dimensions",
+    "capacity": "Capacity",
+    "weight": "Weight",
+    "material": "Material"
+  },
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "services": "Services",
+    "about": "About us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Your waste in good hands",
+    "subtitle": "Explore our interactive 3D container catalog. Over 30 years of comprehensive waste management.",
+    "tagline": "For a better environment",
+    "cta": "View catalog",
+    "ctaSecondary": "Request quote"
+  },
+  "catalog": {
+    "title": "Our Products",
+    "subtitle": "Select a product to explore it in 3D",
+    "filterAll": "All",
+    "filterEmbalajes": "Packaging",
+    "filterContenedores": "Containers",
+    "filterMaquinaria": "Machinery",
+    "specs": "Specifications",
+    "idealUses": "Ideal uses",
+    "relatedContainers": "Related products",
+    "productCount": "products",
+    "productCountFiltered": "products in this category",
+    "containers": {
+      "ecopil": {
+        "name": "Battery Container (Ecopil)",
+        "description": "Certified container for collecting small batteries and cells. Compact design for placement in offices, shops and public spaces.",
+        "useCases": "Offices, shops, educational centers, public establishments"
+      },
+      "fluorescents": {
+        "name": "Fluorescent Tube Container",
+        "description": "Special packaging for collecting fluorescent tubes and low-energy lamps. Ensures safe transport without breakage.",
+        "useCases": "Offices, hospitals, shopping centers, industrial facilities"
+      },
+      "toners": {
+        "name": "Toner Selective Waste Bin",
+        "description": "Specific container for collecting spent toner and ink cartridges. Complies with hazardous waste regulations.",
+        "useCases": "Offices, service companies, copy centers, universities"
+      },
+      "ibc-1000l": {
+        "name": "IBC 1000L",
+        "description": "1000-liter intermediate bulk container (IBC) with protective metal cage and discharge valve. Ideal for hazardous and non-hazardous liquids.",
+        "useCases": "Chemical and food industry, liquid storage, waste transport"
+      },
+      "sac-net": {
+        "name": "Net Bag",
+        "description": "Mesh bag for collecting and transporting bulky and light waste. Easy to handle and resistant.",
+        "useCases": "Collecting plastics, paper, light waste, recycling"
+      },
+      "big-bag": {
+        "name": "Big Bag 1m³",
+        "description": "High-capacity bag (1m³) made of high-strength woven polypropylene. With 4 handles for crane or forklift handling.",
+        "useCases": "Construction, demolition, aggregates, bulky industrial waste"
+      },
+      "boxs-bateries": {
+        "name": "Battery Box",
+        "description": "Special box for collecting and transporting lead-acid batteries and other types of accumulators. Complies with ADR regulations.",
+        "useCases": "Mechanical workshops, automotive companies, industry, collection centers"
+      },
+      "sacs-fibrociment": {
+        "name": "Asbestos Cement Bags",
+        "description": "Certified bags for packaging and transporting asbestos cement waste. Comply with specific regulations for hazardous asbestos waste.",
+        "useCases": "Demolition works, building rehabilitation, asbestos cement removal"
+      },
+      "bido-especials": {
+        "name": "Special Waste Drums",
+        "description": "Safety drums for special and hazardous waste. Available in different capacities with certified hermetic closure.",
+        "useCases": "Chemical industry, laboratories, workshops, hazardous waste management"
+      },
+      "caixa-perillosos": {
+        "name": "Hazardous Waste Boxes",
+        "description": "UN certified boxes for packaging and transporting small quantities of hazardous waste. Complies with ADR regulations for dangerous goods transport.",
+        "useCases": "Laboratories, hospitals, chemical industry, research centers"
+      },
+      "plastic-240l": {
+        "name": "Selective Plastic Container 240L",
+        "description": "240-liter plastic container for selective collection. With tilting lid and wheels for easy movement.",
+        "useCases": "Residential communities, shops, office buildings, domestic use"
+      },
+      "selectiva-1100l": {
+        "name": "Selective Plastic Container 1100L",
+        "description": "Large 1100-liter container for selective collection in high-density areas. With 4 swivel wheels and front opening.",
+        "useCases": "Large communities, shopping centers, markets, business parks"
+      },
+      "iglu-vidre": {
+        "name": "Glass Igloo",
+        "description": "Igloo container for selective glass collection on public roads. Large capacity with top opening for safe deposit.",
+        "useCases": "Public roads, shopping centers, hospitality, high glass generation areas"
+      },
+      "skip-2m3": {
+        "name": "2m³ Container",
+        "description": "2m³ metal skip for tight spaces. Ideal for narrow streets and small works. Transported by small-tonnage trucks.",
+        "useCases": "Apartment renovations, narrow street projects, small works"
+      },
+      "skip-3m3": {
+        "name": "3m³ Container",
+        "description": "3m³ metal container, the most commonly used for works and renovations. Takes up the space of a standard parking space.",
+        "useCases": "Renovation works, residential construction, premises clearing"
+      },
+      "skip-5m3": {
+        "name": "5m³ Container",
+        "description": "5m³ skip for medium projects. Greater capacity while maintaining a small footprint. Ideal for rubble and construction materials.",
+        "useCases": "Medium works, partial demolitions, rehabilitations"
+      },
+      "skip-6m3-tapat": {
+        "name": "6m³ Container (Covered)",
+        "description": "6m³ container with lid for waste requiring rain protection or that should not be exposed to the outside.",
+        "useCases": "Waste requiring special protection, works in residential areas, wood and sensitive materials"
+      },
+      "skip-9m3": {
+        "name": "9m³ Container",
+        "description": "High-capacity 9m³ skip for large-scale works. Allows loading large volumes of rubble or waste.",
+        "useCases": "Large works, demolitions, industrial projects"
+      },
+      "skip-9m3-estanc": {
+        "name": "9m³ Sealed Container",
+        "description": "Sealed version of the 9m³ container, designed for liquid waste or waste that should not seep outside. Complies with watertightness regulations.",
+        "useCases": "Liquid waste, sludge, waste with filtration risk"
+      },
+      "rolloff-10-13m3": {
+        "name": "10-13m³ Container",
+        "description": "Roll-off container between 10 and 13m³ for large-volume works and projects. Loaded and unloaded via hook system.",
+        "useCases": "Industrial works, major demolitions, massive waste generation"
+      },
+      "rolloff-12m3": {
+        "name": "12m³ Container",
+        "description": "12m³ fixed-capacity roll-off for efficient management of bulky waste. Widely used in civil works.",
+        "useCases": "Civil construction, infrastructure projects, medium demolitions"
+      },
+      "rolloff-15-40m3": {
+        "name": "15-40m³ Container",
+        "description": "Variable large-capacity container between 15 and 40m³. For projects with the highest waste generation. Transported by specialized vehicles.",
+        "useCases": "Large industrial demolitions, large-scale civil engineering projects"
+      },
+      "estancs-15-25m3": {
+        "name": "Sealed Containers 15-25m³",
+        "description": "Large-capacity sealed containers (15-25m³) for liquid or hazardous waste that must not contaminate the soil.",
+        "useCases": "Industrial liquid waste, sewage sludge, environmentally hazardous waste"
+      },
+      "confidencial": {
+        "name": "Confidential Container",
+        "description": "Container with security lock for confidential destruction of documents and data carriers. Ensures traceability and confidentiality.",
+        "useCases": "Companies, offices, hospitals, public administrations, banks"
+      },
+      "compactadora": {
+        "name": "Compactor",
+        "description": "Waste compactor to maximize storage capacity. Reduces waste volume by up to 80%, optimizing management costs.",
+        "useCases": "Large retail surfaces, industry, logistics centers, municipalities"
+      },
+      "autovoltejador": {
+        "name": "Auto-tipper",
+        "description": "Special vehicle for automatic collection and tipping of containers. Enables efficient collection without additional staff.",
+        "useCases": "Municipal collection, urban waste management, industrial areas"
+      },
+      "autobasculant": {
+        "name": "Auto-tipper System",
+        "description": "Auto-tipping system for automatic emptying of large-capacity containers. Optimizes collection times and reduces manual effort.",
+        "useCases": "Industry, logistics, large-volume waste management"
+      },
+      "roll-paker": {
+        "name": "Roll Paker",
+        "description": "Roll-paker system for compacting and transporting waste in a single vehicle. Combines the efficiency of a compactor with truck mobility.",
+        "useCases": "Urban collection, efficient management of domestic and industrial waste"
+      },
+      "rotocompactador": {
+        "name": "Roto-compactor",
+        "description": "Roto-compactor for waste volume reduction through rotation and compression. High efficiency in organic and mixed waste management.",
+        "useCases": "Markets, large retail surfaces, hospitality, food industry"
+      },
+      "cisterna": {
+        "name": "Tanker",
+        "description": "Transport tanker for liquids, sludge and liquid waste in large volumes. Made of stainless steel for maximum durability and resistance.",
+        "useCases": "Industrial liquid transport, sewage sludge, hazardous liquid waste"
+      }
+    }
+  },
+  "features": {
+    "title": "Why choose Vilà Vila",
+    "certified": {
+      "title": "ISO Certified",
+      "description": "ISO 9001, ISO 14001, UNE-EN 15713. EcoVadis Silver Medal."
+    },
+    "emergency": {
+      "title": "24h Emergencies",
+      "description": "Environmental remediation service 24 hours a day, 365 days a year."
+    },
+    "experience": {
+      "title": "30+ years of experience",
+      "description": "Since 1994, providing comprehensive waste management in Bages, Osona and Vallès."
+    },
+    "transport": {
+      "title": "ADR Authorized Transport",
+      "description": "Own fleet for hazardous and non-hazardous waste transport."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Request a quote or ask your questions",
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone",
+    "containerType": "Product type",
+    "selectContainer": "Select a product",
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your project...",
+    "submit": "Send request",
+    "success": "Message sent successfully. We will contact you soon.",
+    "error": "There was an error sending the message. Please try again."
+  },
+  "footer": {
+    "description": "Comprehensive waste management since 1994.",
+    "quickLinks": "Quick links",
+    "contactInfo": "Contact information",
+    "delegations": "Locations",
+    "centralBages": "Central Bages",
+    "osona": "Osona Office",
+    "valles": "Vallès Office",
+    "certifications": "Certifications",
+    "socialMedia": "Social media",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy",
+    "cookies": "Cookie policy"
+  },
+  "about": {
+    "title": "About us",
+    "subtitle": "Serving the environment since 1994",
+    "description": "Vilà Vila Serveis Ambientals SL is a company specialized in the comprehensive management of all types of waste. Founded in 1994 in Sant Joan de Vilatorrada (Bages), we offer waste collection, transport, management and recycling services with a commitment to protecting the environment.",
+    "history": "Originally established as Contenidors Vilà Vila S.L., the company has evolved to become a benchmark in environmental management in central Catalonia, with offices in Bages, Osona and Vallès.",
+    "servicesTitle": "Our services",
+    "services": {
+      "containers": "Containers (rental and sale)",
+      "transport": "Transport (RE/ADR authorized)",
+      "hazardous": "Hazardous waste",
+      "consulting": "Environmental technical consulting",
+      "sanitation": "Environmental remediation (24h emergencies)",
+      "confidential": "Confidential destruction"
+    },
+    "certificationsTitle": "Certifications and quality",
+    "certificationsDesc": "We hold ISO 9001:2015 (quality), ISO 14001:2015 (environment) and UNE-EN 15713:2010 (confidential destruction) certifications. Recognized with the EcoVadis Silver Medal for the third consecutive year."
+  },
+  "services": {
+    "title": "Our services",
+    "subtitle": "Comprehensive waste management solutions",
+    "containers": {
+      "title": "Containers",
+      "description": "Rental and sale of all types of containers, from 2m³ to 40m³. Own boilermaking workshop for customizations."
+    },
+    "transport": {
+      "title": "Transport",
+      "description": "Modern vehicle fleet (compactors, cranes, articulated arms) RE and ADR authorized for transporting all types of waste."
+    },
+    "hazardous": {
+      "title": "Hazardous waste",
+      "description": "Professional sampling and analysis with accredited laboratories. ADR transport and customized handling protocols."
+    },
+    "consulting": {
+      "title": "Technical consulting",
+      "description": "Environmental consulting department. Customized waste management plans by sector and regulatory compliance."
+    },
+    "sanitation": {
+      "title": "Environmental remediation",
+      "description": "Drain unblocking, CCTV inspection, septic tank emptying, 24/7 emergency response and industrial pressure cleaning."
+    },
+    "confidential": {
+      "title": "Confidential destruction",
+      "description": "Certified destruction of documents and data carriers with UNE-EN 15713:2010 certificate. Traceability guarantee."
+    },
+    "viewCatalog": "View container catalog"
+  }
+}

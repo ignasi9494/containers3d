@@ -1,0 +1,1 @@
+const fs=require("fs");const p="C:/Proyectos_ignasi/containers3d/scripts/extract-pdf-images.mjs";const s=fs.readFileSync("C:/Proyectos_ignasi/containers3d/scripts/gen-content.txt","utf8");fs.writeFileSync(p,s);console.log("Written",p);

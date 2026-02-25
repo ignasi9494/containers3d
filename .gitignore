@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# claude local settings
+.claude/settings.local.json
+
+# working directories (PDFs, images, reference material)
+reference/
+imagenes_del_pdf/
+pdf_en_imagenes/
+pdf_formato/
+cataleg-contenidors.pdf

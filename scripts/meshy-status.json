@@ -1,0 +1,152 @@
+{
+  "ecopil": {
+    "taskId": "019c7cdd-dfe1-7aa4-b669-7ee5c017baa1",
+    "status": "SUCCEEDED",
+    "glbFile": "ecopil.glb"
+  },
+  "fluorescents": {
+    "taskId": "019c7ce0-f920-77cf-8db3-7df8cb4a683a",
+    "status": "SUCCEEDED",
+    "glbFile": "fluorescents.glb"
+  },
+  "toners": {
+    "taskId": "019c7ce4-3c69-7865-94c6-b97f17b12f06",
+    "status": "SUCCEEDED",
+    "glbFile": "toners.glb"
+  },
+  "ibc-1000l": {
+    "taskId": "019c7ce8-6ace-736d-9532-bec9ff8eea1e",
+    "status": "SUCCEEDED",
+    "glbFile": "ibc-1000l.glb"
+  },
+  "sac-net": {
+    "taskId": "019c7ced-c780-7491-afdd-5058729ff9d7",
+    "status": "SUCCEEDED",
+    "glbFile": "sac-net.glb"
+  },
+  "big-bag": {
+    "taskId": "019c7cf1-238f-7d2b-b19b-535f47cad22d",
+    "status": "SUCCEEDED",
+    "glbFile": "big-bag.glb"
+  },
+  "boxs-bateries": {
+    "taskId": "019c7d14-bda6-719d-95ab-d657966e346b",
+    "status": "SUCCEEDED",
+    "glbFile": "boxs-bateries.glb"
+  },
+  "sacs-fibrociment": {
+    "taskId": "019c7d19-6f8b-7445-8bf2-55f94a60f8a9",
+    "status": "SUCCEEDED",
+    "glbFile": "sacs-fibrociment.glb"
+  },
+  "bido-especials": {
+    "taskId": "019c7d1c-336d-7542-bffd-ec01d2fa3bdf",
+    "status": "SUCCEEDED",
+    "glbFile": "bido-especials.glb"
+  },
+  "caixa-perillosos": {
+    "taskId": "019c7d1f-a66a-75f5-9d93-fdd7c91bfd58",
+    "status": "SUCCEEDED",
+    "glbFile": "caixa-perillosos.glb"
+  },
+  "plastic-240l": {
+    "taskId": "019c7d29-c771-7dc4-8fd1-4819d1286a11",
+    "status": "SUCCEEDED",
+    "glbFile": "plastic-240l.glb"
+  },
+  "selectiva-1100l": {
+    "taskId": "019c7d31-534f-7f12-a439-55b693e537c8",
+    "status": "SUCCEEDED",
+    "glbFile": "selectiva-1100l.glb"
+  },
+  "iglu-vidre": {
+    "taskId": "019c7d34-6bb8-7943-86c7-63e56769708c",
+    "status": "SUCCEEDED",
+    "glbFile": "iglu-vidre.glb"
+  },
+  "skip-2m3": {
+    "taskId": "019c7d39-c692-79d7-a451-99bdb1566996",
+    "status": "SUCCEEDED",
+    "glbFile": "skip-2m3.glb"
+  },
+  "skip-3m3": {
+    "taskId": "019c7d3c-5e56-7aa7-a74a-48b549ca1dd0",
+    "status": "SUCCEEDED",
+    "glbFile": "skip-3m3.glb"
+  },
+  "skip-5m3": {
+    "taskId": "019c7d3f-6048-7ac2-bb52-b4c032fe0466",
+    "status": "SUCCEEDED",
+    "glbFile": "skip-5m3.glb"
+  },
+  "skip-6m3-tapat": {
+    "taskId": "019c7d47-516c-7a52-bb4b-663f8a9fc118",
+    "status": "SUCCEEDED",
+    "glbFile": "skip-6m3-tapat.glb"
+  },
+  "skip-9m3": {
+    "taskId": "019c7d4a-4c0c-7c7f-bc94-02841200e864",
+    "status": "SUCCEEDED",
+    "glbFile": "skip-9m3.glb"
+  },
+  "skip-9m3-estanc": {
+    "taskId": "019c7d51-6b9e-7d86-b9f9-e3946cefdf86",
+    "status": "SUCCEEDED",
+    "glbFile": "skip-9m3-estanc.glb"
+  },
+  "rolloff-10-13m3": {
+    "taskId": "019c7d5a-750c-7cd3-acd6-574528190a87",
+    "status": "SUCCEEDED",
+    "glbFile": "rolloff-10-13m3.glb"
+  },
+  "rolloff-12m3": {
+    "taskId": "019c7d6a-e7f0-71be-9dab-ab9c8203d48c",
+    "status": "SUCCEEDED",
+    "glbFile": "rolloff-12m3.glb"
+  },
+  "rolloff-15-40m3": {
+    "taskId": "019c7d6d-ea60-70af-b47e-5480f8bbc6d1",
+    "status": "SUCCEEDED",
+    "glbFile": "rolloff-15-40m3.glb"
+  },
+  "estancs-15-25m3": {
+    "taskId": "019c7d70-d5a4-7269-bee0-ad274b678c5a",
+    "status": "SUCCEEDED",
+    "glbFile": "estancs-15-25m3.glb"
+  },
+  "confidencial": {
+    "taskId": "019c7d75-2dff-714a-801c-56b6c3e78508",
+    "status": "SUCCEEDED",
+    "glbFile": "confidencial.glb"
+  },
+  "compactadora": {
+    "taskId": "019c7d78-f2e7-7337-810f-6940347f845f",
+    "status": "SUCCEEDED",
+    "glbFile": "compactadora.glb"
+  },
+  "autovoltejador": {
+    "taskId": "019c7d7b-74b5-71e0-8968-d3081f5bd6ce",
+    "status": "SUCCEEDED",
+    "glbFile": "autovoltejador.glb"
+  },
+  "autobasculant": {
+    "taskId": "019c7d82-90ea-785c-b2c7-ecfa9d47e8b1",
+    "status": "SUCCEEDED",
+    "glbFile": "autobasculant.glb"
+  },
+  "roll-paker": {
+    "taskId": "019c7d87-af5b-74b9-9c9f-52c8d35b5874",
+    "status": "SUCCEEDED",
+    "glbFile": "roll-paker.glb"
+  },
+  "rotocompactador": {
+    "taskId": "019c7d8a-307d-712b-917f-fe9bd8a84c43",
+    "status": "SUCCEEDED",
+    "glbFile": "rotocompactador.glb"
+  },
+  "cisterna": {
+    "taskId": "019c7d8f-94c3-79c4-85ec-456cb7a9ddcc",
+    "status": "SUCCEEDED",
+    "glbFile": "cisterna.glb"
+  }
+}
